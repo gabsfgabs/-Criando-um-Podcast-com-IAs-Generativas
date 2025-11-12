@@ -10,6 +10,10 @@ Prompts solicitados e gerados pelo Deepseek:
 - https://chat.deepseek.com/share/hp14jkfhmqtnog89zo
 - https://chat.deepseek.com/share/spryibejkzb0qk255c
 
-Imagens geradas no Imagine:
+Imagens geradas no Midjourney:
 
 - https://www.imagine.art/image
+
+Audio criado no Descript Overdub: 
+
+https://share.descript.com/view/BkfXZIMlOMl
